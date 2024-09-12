@@ -10,7 +10,7 @@ t=xq + 42.5*(slice_no-1) + 82; % addd on delay time (ms) for slice readout time 
 ts=ts'; %transpose timeseries vector
 
 t1_effective = 1600;
-ga_label=0.56;
+a_label=0.56;
 a_BGS=0.95*0.95*0.95;
 lambda=0.9;
 
